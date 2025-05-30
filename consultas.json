@@ -1,0 +1,20 @@
+[
+  {
+    "id_consulta": 1,
+    "id_mascota": 1,
+    "fecha": "2024-03-10",
+    "motivo": "Vacuna antirrábica"
+  },
+  {
+    "id_consulta": 2,
+    "id_mascota": 2,
+    "fecha": "2024-04-15",
+    "motivo": "Chequeo general"
+  },
+  {
+    "id_consulta": 3,
+    "id_mascota": 3,
+    "fecha": "2024-05-01",
+    "motivo": "Desparasitación"
+  }
+]

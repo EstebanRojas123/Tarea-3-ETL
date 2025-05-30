@@ -1,0 +1,4 @@
+id_cliente	nombre	telefono
+1	Ana Ríos	+56912345678
+2	Juan Soto	+56987654321
+3	Marcela Díaz	+56911223344

@@ -1,0 +1,12 @@
+<root>
+  <veterinario>
+    <id_veterinario>1</id_veterinario>
+    <nombre>Dr. Pablo Vera</nombre>
+    <especialidad>Medicina General</especialidad>
+  </veterinario>
+  <veterinario>
+    <id_veterinario>2</id_veterinario>
+    <nombre>Dra. Camila López</nombre>
+    <especialidad>Cirugía</especialidad>
+  </veterinario>
+</root>
