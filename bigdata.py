@@ -11,7 +11,6 @@ veterinarios = pd.read_xml('veterinarios.xml')
 
 conn = sqlite3.connect('veterinaria.db')
 
-# Guardar cada DataFrame en una tabla de la base de datos
 clientes.to_sql('clientes', conn, if_exists='replace', index=False)
 mascotas.to_sql('mascotas', conn, if_exists='replace', index=False)
 consultas.to_sql('consultas', conn, if_exists='replace', index=False)
